@@ -1,3 +1,3 @@
 #!bin/bash
 ls
-$ while read line; do echo $line; done < -dieary.txt
+$ while read line; do echo $line; done < -diary.txt
